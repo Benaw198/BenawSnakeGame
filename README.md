@@ -1,3 +1,3 @@
 A Benaw Snake Game
 Credits: Benaw
-IF U WANT TO COPY MY PROJECT, PLEASE MAKE SIGNIFICANT CHANGES
+credit me if u want to use my project
